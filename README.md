@@ -1,5 +1,5 @@
 # CoalOS
-A top level shell with no real CPU emulation that gives the impression of a propietary 80s/90s OS running underneath.
+A top level shell with no real CPU emulation that gives the impression of a proprietary 80s/90s OS running underneath.
 # Installation and Usage:
 ## Windows:
 1. Download the archive named WindowsExecutable.zip.
