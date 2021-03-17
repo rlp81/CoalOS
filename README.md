@@ -1,4 +1,9 @@
 # CoalOS
-Operating system made of python.
-Once you have downloaded CoalOS.rar unzip it and run the exe named System.exe.
-It will tell you about the Admin account etc.
+A top level shell with no real CPU emulation that gives the impression of a propietary 80s/90s OS running underneath.
+# Installation and Usage:
+## Windows:
+1. Download the file named WindowsExecutable.zip
+2. Unzip the file into its own directory
+3. Execute System.exe in a terminal (opem cmd, `cd` into the unzipped directory, and run `System.exe`)
+4. Type either: `Open System` or `Open Classified`
+5. Enjoy!
