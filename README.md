@@ -17,7 +17,7 @@ A top level shell with no real CPU emulation that gives the impression of a prop
 ## General / With Git:
 1. Open a terminal and run the command `git clone https://github.com/rlp81/CoalOS.git`
 2. `cd` into the directory named CoalOS.
-3. `cd` into the directory names sourcecode.
+3. `cd` into the directory named sourcecode.
 4. Run the command `python3 System.py`
 
 # About
