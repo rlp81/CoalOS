@@ -10,7 +10,7 @@ A top level shell with no real CPU emulation that gives the impression of a prop
 ## Unix Systems:
 1. Download the archive named UnixExecutable.zip.
 2. Unzip the file into its own directory.
-3. Open a terminal and `cd` into the unzipped directory and run the command 'sudo chmod +x System` (to make it executable).
+3. Open a terminal and `cd` into the unzipped directory and run the command `sudo chmod +x System` (to make it executable).
 5. Run the command `System`.
 6. Type either: `Open System` or `Open Classified`.
 7. Enjoy!
