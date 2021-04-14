@@ -85,54 +85,54 @@ while True:
                                         cfile = json.load(f)
                                     print("What is the name of the file?")
                                     file = input()
-                                    print("What will it cotain?")
+                                    print("What will it contain?")
                                     file1 = input()
                                     cfile[file] = file1
                                     with open("cfiles.json", "w") as f:
                                         cfile = json.dump(cfile, f, indent=4)
                                 if file == "Open Cake.txt":
                                     print("To make the Cake:")
-                                    print("One 18.25 ounce package chocolate cake mix."
-                                        "One can prepared coconut pecan frosting."
-                                        "Three slash four cup vegetable oil."
-                                        "Four large eggs. One cup semi-sweet chocolate chips."
-                                        "Three slash four cups butter or margarine."
-                                        "One and two third cups granulated sugar."
-                                        "Two cups all purpose flower."
-                                        "Don't forget garnishes such as:"
-                                        "Fish shaped crackers."
-                                        "Fish shaped candies."
-                                        "Fish shaped solid waste."
-                                        "Fish shaped dirt."
-                                        "Fish shaped ethyl benzene."
-                                        "Pull and peel licorice."
-                                        "Fish shaped volatile organic compounds and sediment shaped sediment."
-                                        "Candy coated peanut butter pieces. Shaped like fish."
-                                        "One cup lemon juice."
-                                        "Alpha resins."
-                                        "Unsaturated polyester resin."
-                                        "Fiberglass surface resins."
-                                        "And volatile malted milk impoundments."
-                                        "Nine large egg yolks."
-                                        "Twelve medium geosynthetic membranes."
-                                        "One cup granulated sugar."
-                                        "An entry called 'how to kill someone with your bare hands'."
-                                        "Two cups rhubarb, sliced."
-                                        "Two slash three cups granulated rhubarb."
-                                        "One tablespoon all-purpose rhubarb."
-                                        "One teaspoon grated orange rhubarb."
-                                        "Three tablespoons rhubarb, on fire."
-                                        "One large rhubarb."
-                                        "One cross borehole electro-magnetic imaging rhubarb."
-                                        "Two tablespoons rhubarb juice."
-                                        "Adjustable aluminum head positioner."
-                                        "Slaughter electric needle injector."
-                                        "Cordless electric needle injector."
-                                        "Injector needle driver."
-                                        "Injector needle gun."
-                                        "Cranial caps."
-                                        "And it contains proven preservatives, deep penetration agents, and gas and odor control chemicals."
-                                        "That will deodorize and preserve putrid tissue.")
+                                    print("One 18.25 ounce package chocolate cake mix.")
+                                    print("One can prepared coconut pecan frosting.")
+                                    print("Three slash four cup vegetable oil.")
+                                    print("Four large eggs. One cup semi-sweet chocolate chips.")
+                                    print("Three slash four cups butter or margarine.")
+                                    print("One and two third cups granulated sugar.")
+                                    print("Two cups all purpose flower.")
+                                    print("Don't forget garnishes such as:")
+                                    print("Fish shaped crackers.")
+                                    print("Fish shaped candies.")
+                                    print("Fish shaped solid waste.")
+                                    print("Fish shaped dirt.")
+                                    print("Fish shaped ethyl benzene.")
+                                    print("Pull and peel licorice.")
+                                    print("Fish shaped volatile organic compounds and sediment shaped sediment.")
+                                    print("Candy coated peanut butter pieces. Shaped like fish.")
+                                    print("One cup lemon juice.")
+                                    print("Alpha resins.")
+                                    print("Unsaturated polyester resin.")
+                                    print("Fiberglass surface resins.")
+                                    print("And volatile malted milk impoundments.")
+                                    print("Nine large egg yolks.")
+                                    print("Twelve medium geosynthetic membranes.")
+                                    print("One cup granulated sugar.")
+                                    print("An entry called 'how to kill someone with your bare hands'.")
+                                    print("Two cups rhubarb, sliced.")
+                                    print("Two slash three cups granulated rhubarb.")
+                                    print("One tablespoon all-purpose rhubarb.")
+                                    print("One teaspoon grated orange rhubarb.")
+                                    print("Three tablespoons rhubarb, on fire.")
+                                    print("One large rhubarb.")
+                                    print("One cross borehole electro-magnetic imaging rhubarb.")
+                                    print("Two tablespoons rhubarb juice.")
+                                    print("Adjustable aluminum head positioner.")
+                                    print("Slaughter electric needle injector.")
+                                    print("Cordless electric needle injector.")
+                                    print("Injector needle driver.")
+                                    print("Injector needle gun.")
+                                    print("Cranial caps.")
+                                    print("And it contains proven preservatives, deep penetration agents, and gas and odor control chemicals.")
+                                    print("That will deodorize and preserve putrid tissue.")
 
                             if per[str(user)]["AP"] == "True":
                                 if syscommand == "Admin Panel":
