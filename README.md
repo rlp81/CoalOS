@@ -7,4 +7,4 @@ A poorly implemented top level shell with no real CPU emulation that gives the i
 4. Run the command `python3 System.py`
 
 # About
-Code written by rlp81 (Coal#7238 on Discord), README written by and code rewritten by (tehfrutcak1#5846 on Discord), and license / legal-ness thing done by the incredible Nomagno.
+Code written by rlp81 (Coal#7238 on Discord), README written by and fixed by (tehfrutcak1#5846 on Discord), and license / legal-ness thing done by the incredible Nomagno.
